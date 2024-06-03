@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Saini
 - 👀 I’m interested in App development
-- 🌱 I’m currently learning Android studio
+- 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on android app project
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: AR 60 in Genshin
